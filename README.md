@@ -40,6 +40,6 @@ Go to: ```localhost:8080/history``` on the computer running CI-Server.
 
 ## Development
 
-This server was developed as part of [Software Engineering Fundamentals](https://www.kth.se/student/kurser/kurs/DD2480?l=en) at KTH.
+This server was developed as part of the course Software Engineering Fundamentals at KTH.
 
 
