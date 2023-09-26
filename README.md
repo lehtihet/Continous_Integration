@@ -6,7 +6,7 @@
 
 ## About
 
-A simple continous integration (CI) server for Maven-projects. It responds to ```PUSH```-events on GitHub and can build and test your commits, as well as mark them as successfull or failed builds. 
+A continous integration (CI) server for Maven-projects. It responds to ```PUSH```-events on GitHub and can build and test your commits, as well as mark them as successfull or failed builds. 
 
 The server includes a page for viewing the build history. 
 
